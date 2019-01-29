@@ -22,6 +22,6 @@ extension ___FILEBASENAMEASIDENTIFIER___: ViewModelable {
     }
 }
 
-extension ___FILEBASENAMEASIDENTIFIER___: {
+extension ___FILEBASENAMEASIDENTIFIER___ {
     
 }
