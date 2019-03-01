@@ -2,7 +2,7 @@
 
 import Foundation
 
-final class ___FILEBASENAMEASIDENTIFIER___: ViewModel {
+final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     
     struct Input {
         
