@@ -1,0 +1,11 @@
+//___FILEHEADER___
+
+import UIKit
+
+class ___FILEBASENAMEASIDENTIFIER___: View {
+
+    // MARK: - Widget
+    
+
+    // MARK: - Public Properties
+}
