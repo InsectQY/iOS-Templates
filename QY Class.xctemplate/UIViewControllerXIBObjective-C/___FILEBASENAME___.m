@@ -4,9 +4,13 @@
 
 @interface ___FILEBASENAMEASIDENTIFIER___ ()
 
+
+
 @end
 
 @implementation ___FILEBASENAMEASIDENTIFIER___
+
+#pragma mark - Lazyload
 
 #pragma mark - LifeCycle
 - (void)viewDidLoad {
