@@ -1,6 +1,6 @@
 # iOS-Templates
 ```
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates
+/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/Source
 ```
 
 
