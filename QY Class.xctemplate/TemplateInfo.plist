@@ -49,6 +49,13 @@
 			<string>#import &lt;UIKit/UIKit.h&gt;</string>
 			<key>Values</key>
 			<array>
+				<string>UIViewController</string>
+				<string>UIView</string>
+				<string>UITableViewController</string>
+				<string>UITableViewCell</string>
+				<string>UICollectionViewController</string>
+				<string>UICollectionViewCell</string>
+				<string>UICollectionReusableView</string>
 				<string>ViewModel</string>
 				<string>Codable</string>
 				<string>NSObject</string>
@@ -62,6 +69,20 @@
 			</array>
 			<key>Suffixes</key>
 			<dict>
+				<key>UICollectionViewController</key>
+				<string>ViewController</string>
+				<key>UITableViewController</key>
+				<string>ViewController</string>
+				<key>UICollectionReusableView</key>
+				<string>ReusableView</string>
+				<key>UICollectionViewCell</key>
+				<string>Cell</string>
+				<key>UITableViewCell</key>
+				<string>Cell</string>
+				<key>UIView</key>
+				<string>View</string>
+				<key>UIViewController</key>
+				<string>ViewController</string>
 				<key>View</key>
 				<string>View</string>
 				<key>ViewModel</key>
@@ -93,6 +114,13 @@
 			<dict>
 				<key>cocoaTouchSubclass</key>
 				<array>
+					<string>UICollectionReusableView</string>
+					<string>UICollectionViewCell</string>
+					<string>UICollectionViewController</string>
+					<string>UITableViewCell</string>
+					<string>UITableViewController</string>
+					<string>UIView</string>
+					<string>UIViewController</string>
 					<string>View</string>
 					<string>ViewController</string>
 					<string>TableViewController</string>
