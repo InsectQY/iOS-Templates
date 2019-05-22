@@ -2,7 +2,7 @@
 
 import UIKit
 
-class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___, NibReusable {
+class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
     // MARK: - IBOutlet
 
